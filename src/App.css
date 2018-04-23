@@ -1,0 +1,13 @@
+.colorbox {
+  height: 20vw;
+  width: 20vw;
+  display: inline-block;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
